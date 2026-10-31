@@ -1,0 +1,13 @@
+<body>
+<!-- <h1><br>TEXT FORMATING EXAMPLE</br></h1>
+<p>
+   <b> Bold text (using &lt;b&gt;)
+     -->
+<!-- &#8377; -->
+ <abbr title="'">HTML </abbr>
+ <dl>
+    <dt> html</dt>
+    <dd> hyper text  markup lang</dd>
+    <dt>css</dt>
+    <dd>cascading</dd>
+</body>

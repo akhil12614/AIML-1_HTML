@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- <b> hello</b>
+    <i> hiii italic</i>
+     -->
+<!-- <a href="#">Link1</a> -->
+
+<!-- <font color="#00FFF0"> Hello</font> -->
+<!-- <u>hello
+</u>
+<p>
+    hello 
+    ai ml
+    ABES
+    <p>
+        <pre> Hello
+            aiml htm ABES
+            hbuh
+        </pre>
+        <EM>
+            emphasis</EM>
+            <STRONG> D</STRONG> -->
+            <p> H <sub>2</sub></p>
+            <p> h <sup>4</sup></p>
+            <mark> whs</mark>
+            
+</body>
+</html>
